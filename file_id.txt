@@ -1,0 +1,29 @@
+"message":
+{
+				"message_id":5757,
+				"from":
+				{
+					"id":*********,
+					"is_bot":false,
+					"first_name":"Electric",
+					"last_name":"Sheep",
+					"username":"*********",
+					"language_code":"zh-TW"
+				},
+				"chat":
+				{
+					"id":*********,
+					"first_name":"Electric",
+					"last_name":"Sheep",
+					"username":"*********",
+					"type":"private"
+				},
+				"date":1528630425,
+				"audio":
+				{
+					"duration":405,
+					"mime_type":"audio/mpeg",
+					"file_id":"CQADBQADOQAD1KPoVHjBXgkKYx1mAg",
+					"file_size":6483415
+				}
+}
